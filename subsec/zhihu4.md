@@ -32,3 +32,10 @@ layout: default
 ![4_7](./pics/4_7.jpg)
 
 看到有其它答主说钟老先生要么是相信中医，要么是政治需要，我只能说我自己有不同的判断。
+
+作者：WonderScientist<br>
+链接：[知乎](https://www.zhihu.com/question/528270625/answer/2444868054)<br>
+来源：知乎<br>
+著作权归作者所有。<br>
+
+[back to menu](../)
