@@ -12,7 +12,7 @@ layout: default
 ![4_1](./pics/4_1.jpg)
 ![4_2](./pics/4_2.jpg)
 
-著名学术不端现象报道网站撤稿观察http://RetractionWatch.com对于该论文的[报道](https://retractionwatch.com/2021/05/04/prominent-chinese-scientist-failed-to-disclose-company-ties-in-clinical-trial-paper/)：
+著名学术不端现象报道网站撤稿观察 http://RetractionWatch.com 对于该论文的 [报道](https://retractionwatch.com/2021/05/04/prominent-chinese-scientist-failed-to-disclose-company-ties-in-clinical-trial-paper/)：
 
 ![4_3](./pics/4_3.jpg)
 
